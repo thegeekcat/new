@@ -43,5 +43,6 @@ tag: [github,daily,typora, notice]
 - 16.Apr.2023: Google and Naver search engine linked
 - 16.Apr.2023: Search function added
 - 16.Apr.2023: `config.yml` updated
-  - `toc` settings, sidebar, search functions
+  - `toc` settings, sidebar, `search.md` functions
+  - Google font `Cairo` applied
 - 
