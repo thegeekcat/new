@@ -4,6 +4,9 @@ title: "Dependency Error: tzinfo"
 categories: blogging
 tag: [github,daily,jekyll]
 toc: true
+toc_sticky: true
+toc_label: A List of Meow
+toc_icon: "fa-solid fa-paw"
 author_profile: false
 sidebar:
     nav: "docs"

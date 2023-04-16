@@ -4,6 +4,9 @@ title: "Image Path Issues on GitHub Blog"
 categories: blogging
 tag: [github,daily,typora]
 toc: true
+toc_sticky: true
+toc_label: A List of Meow
+toc_icon: "fa-solid fa-paw"
 author_profile: false
 sidebar:
     nav: "docs"
