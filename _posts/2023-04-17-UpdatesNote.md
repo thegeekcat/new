@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Blog Update Notes"
+title: "Blog Updates Note"
 categories: blogging
 tag: [github,daily,typora, notice]
 redirect_from: 
