@@ -3,6 +3,8 @@ layout: single
 title: "Blog Update Notes"
 categories: blogging
 tag: [github,daily,typora, notice]
+redirect_from: 
+  - /blogging/UpdateNotes
 ---
 
  
@@ -45,4 +47,6 @@ tag: [github,daily,typora, notice]
 - 16.Apr.2023: `config.yml` updated
   - `toc` settings, sidebar, `search.md` functions
   - Google font `Cairo` applied
-- 
+- 17.Apr.2023: `redirect_from`  plug in installed
+  - `config.yml` , `minimal-mistakes-jekyll.gemspec` files updated
+- d
