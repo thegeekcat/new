@@ -29,7 +29,7 @@ The setting was okay to upload images to GitHub; but a new issue has been happen
 
 ​	My current settings are below:
 
-​	![imagePaths01]({{site.url}}/assets/images/2023-04-15-imagePaths/imagePaths01.PNG)
+​	![imagePaths01]({{site.url}}/assets/images/2023-04-15-imagePaths/imagePaths01.PNG){: .img-width-80 .align-center}
 
 <br />
 
