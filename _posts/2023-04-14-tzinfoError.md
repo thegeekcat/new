@@ -7,10 +7,7 @@ toc: true
 toc_sticky: true
 toc_label: A List of Meow
 toc_icon: "fa-solid fa-paw"
-author_profile: false
-sidebar:
-    nav: "docs"
-search: true
+
 ---
 
 

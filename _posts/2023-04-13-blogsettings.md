@@ -3,10 +3,6 @@ layout: single
 title: "Blog Settings "
 categories: blogging
 tag: [github,daily]
-author_profile: false
-sidebar:
-    nav: "docs"
-search: true
 ---
 
 

@@ -5,7 +5,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "By Year"
-    url; /year-archive/
+    url: /year-archive/
   - title: "Search"
     url: /search/
 
@@ -17,6 +17,12 @@ docs:
       - title: "Tags"
         url: /tags/
 
+
+counts:
+  - title: "Categories"
+    use: true
+  - title: "Tags"
+    use: true
 
 
   # - title: "About"

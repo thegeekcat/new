@@ -32,6 +32,9 @@ redirect_from:
 
 ### April
 
+- 18.Apr.2023: `counts` feature for Categories and Tags added
+  - `/_data/navigation.yml` updated
+  - `/_includes/nav_list` updated
 - 18.Apr.2023: `Yearh Archive` feature added
   - `/_pages/year-archive.md` newly added
   - `/_data/navigation.yml` updated

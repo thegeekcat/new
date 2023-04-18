@@ -287,7 +287,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: # true
       share: true
@@ -299,5 +298,5 @@ defaults:
       toc_icon: "fa-solid fa-paw"
       author_profile: false
       sidebar:
-          nav: "docs"
+          nav: "counts"
       search: true
