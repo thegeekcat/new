@@ -179,6 +179,6 @@ $ git push --mirror https://github.com/YOUR-USERNAME/YOUR-NEW-REPOSITORY-NAME
 
 <br /><br /><br />
 
-Tada! So now you can see planning grass is done!!
+Tada! So now you can see planting grass is done!!
 
 ![image-3]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues03)
