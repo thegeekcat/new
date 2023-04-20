@@ -63,7 +63,7 @@ To check the email address, I followed the two sub-steps:
 
 I opened the GitHub Desktop app to check the Email address, and it was okay.
 
-![Image01.01](../assets/images/2023-04-20-contibutionsIssue/contributionIssues01-1.png)
+![Image01.01]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues01-1.png)
 
 <br />
 
@@ -111,7 +111,7 @@ The current repository using for the blog is forked from the repository of Minim
 
 So, the current repository is put as an old one to avoid confusion and it'll be cloned to a new repository.
 
-![image-2-1](../assets/images/2023-04-20-contibutionsIssue/contributionIssues02-1.png)
+![image-2-1]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues02-1.png)
 
 <br />
 
@@ -119,7 +119,7 @@ So, the current repository is put as an old one to avoid confusion and it'll be 
 
 Copy the web URL of the old repository to clone it.
 
-![image-20230420232211477](../assets/images/2023-04-20-contibutionsIssue/contributionIssues02-2.png)
+![image-20230420232211477]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues02-2.png)
 
 <br />
 
@@ -149,7 +149,7 @@ Create a new repository to clone the old depository:
 
 (*Note*: You can directly name the new repository as your blog name)
 
-![image-2-2](../assets/images/2023-04-20-contibutionsIssue/contributionIssues02-4.png)
+![image-2-2]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues02-4.png)
 
 <br />
 
@@ -161,7 +161,7 @@ however, I tried another way to use the Git Bash.
 
 So, copy the web URL in Settings of the new repository like below:
 
-![image-2-3](../assets/images/2023-04-20-contibutionsIssue/contributionIssues02-5.png)
+![image-2-3]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues02-5.png)
 
 <br />
 
@@ -181,4 +181,4 @@ $ git push --mirror https://github.com/YOUR-USERNAME/YOUR-NEW-REPOSITORY-NAME
 
 Tada! So now you can see planning grass is done!!
 
-![image-3](../assets/images/2023-04-20-contibutionsIssue/contributionIssues03)
+![image-3]({{site.url}}/assets/images/2023-04-20-contibutionsIssue/contributionIssues03)
