@@ -32,6 +32,7 @@ redirect_from:
 
 ### April
 
+- 19.Apr.2023: the repository of this blog is cloned to a standalone repository for the profile contribution boxes
 - 18.Apr.2023: `counts` feature for Categories and Tags added
   - `/_data/navigation.yml` updated
   - `/_includes/nav_list` updated
